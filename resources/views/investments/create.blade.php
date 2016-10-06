@@ -21,7 +21,7 @@
     </div>
     <div class="form-group">
         {!! Form::label('acquired_date', 'Acquired Date:') !!}
-        {!! Form::text('purchase_price',null,['class'=>'form-control']) !!}
+        {!! Form::text('acquired_date',null,['class'=>'form-control']) !!}
     </div>
     <div class="form-group">
         {!! Form::label('recent_value', 'Recent Value:') !!}
